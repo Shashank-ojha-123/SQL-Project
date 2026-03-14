@@ -286,8 +286,7 @@ reproducible.
 ---
 
 ## 📂 Data Source
-Dataset sourced from Kaggle:
-[Olist Brazilian E-Commerce Dataset](ADD KAGGLE LINK HERE)
+Dataset sourced from Kaggle:Olist Brazilian E-Commerce Dataset
 
 Real anonymized commercial data from Olist — 
 a Brazilian e-commerce marketplace connecting 
