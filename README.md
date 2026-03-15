@@ -4,7 +4,7 @@
 ---
 
 ## 📊 Project Overview
-![Data Overview](screenshots/00_data_overview.png)
+![Data Overview](olist_ecommerce_analysis_SQL/screenshots/00_olist_ERD.png)
 
 ---
 
